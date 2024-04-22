@@ -1,0 +1,14 @@
+c:\Users\kadir\Documents\Programming\Slutprojekt\Slutprojekt\bin\Debug\net8.0\Slutprojekt.exe
+c:\Users\kadir\Documents\Programming\Slutprojekt\Slutprojekt\bin\Debug\net8.0\Slutprojekt.deps.json
+c:\Users\kadir\Documents\Programming\Slutprojekt\Slutprojekt\bin\Debug\net8.0\Slutprojekt.runtimeconfig.json
+c:\Users\kadir\Documents\Programming\Slutprojekt\Slutprojekt\bin\Debug\net8.0\Slutprojekt.dll
+c:\Users\kadir\Documents\Programming\Slutprojekt\Slutprojekt\bin\Debug\net8.0\Slutprojekt.pdb
+c:\Users\kadir\Documents\Programming\Slutprojekt\Slutprojekt\obj\Debug\net8.0\Slutprojekt.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kadir\Documents\Programming\Slutprojekt\Slutprojekt\obj\Debug\net8.0\Slutprojekt.AssemblyInfoInputs.cache
+c:\Users\kadir\Documents\Programming\Slutprojekt\Slutprojekt\obj\Debug\net8.0\Slutprojekt.AssemblyInfo.cs
+c:\Users\kadir\Documents\Programming\Slutprojekt\Slutprojekt\obj\Debug\net8.0\Slutprojekt.csproj.CoreCompileInputs.cache
+c:\Users\kadir\Documents\Programming\Slutprojekt\Slutprojekt\obj\Debug\net8.0\Slutprojekt.dll
+c:\Users\kadir\Documents\Programming\Slutprojekt\Slutprojekt\obj\Debug\net8.0\refint\Slutprojekt.dll
+c:\Users\kadir\Documents\Programming\Slutprojekt\Slutprojekt\obj\Debug\net8.0\Slutprojekt.pdb
+c:\Users\kadir\Documents\Programming\Slutprojekt\Slutprojekt\obj\Debug\net8.0\Slutprojekt.genruntimeconfig.cache
+c:\Users\kadir\Documents\Programming\Slutprojekt\Slutprojekt\obj\Debug\net8.0\ref\Slutprojekt.dll

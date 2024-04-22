@@ -1,0 +1,150 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "raylib/5.0.0": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "raylib/5.0.0": {
+      "sha512": "SZwnq2PYl94ljn11SC04g3b6cdU2S/r55Jy1VZGlDRJdq/5sodbrhwGlE51pVR6kwKHBSt+cA15jxyB4pY8dEg==",
+      "type": "package",
+      "path": "raylib/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/native/LICENSE",
+        "build/native/README.md",
+        "build/native/include/AudioDevice.hpp",
+        "build/native/include/AudioStream.hpp",
+        "build/native/include/BoundingBox.hpp",
+        "build/native/include/Camera2D.hpp",
+        "build/native/include/Camera3D.hpp",
+        "build/native/include/Color.hpp",
+        "build/native/include/Font.hpp",
+        "build/native/include/Functions.hpp",
+        "build/native/include/Gamepad.hpp",
+        "build/native/include/Image.hpp",
+        "build/native/include/Material.hpp",
+        "build/native/include/Matrix.hpp",
+        "build/native/include/Mesh.hpp",
+        "build/native/include/Model.hpp",
+        "build/native/include/ModelAnimation.hpp",
+        "build/native/include/Mouse.hpp",
+        "build/native/include/Music.hpp",
+        "build/native/include/Ray.hpp",
+        "build/native/include/RayCollision.hpp",
+        "build/native/include/RaylibException.hpp",
+        "build/native/include/Rectangle.hpp",
+        "build/native/include/RenderTexture.hpp",
+        "build/native/include/Shader.hpp",
+        "build/native/include/Sound.hpp",
+        "build/native/include/Text.hpp",
+        "build/native/include/Texture.hpp",
+        "build/native/include/TextureUnmanaged.hpp",
+        "build/native/include/Touch.hpp",
+        "build/native/include/Vector2.hpp",
+        "build/native/include/Vector3.hpp",
+        "build/native/include/Vector4.hpp",
+        "build/native/include/VrStereoConfig.hpp",
+        "build/native/include/Wave.hpp",
+        "build/native/include/Window.hpp",
+        "build/native/include/raylib-cpp-utils.hpp",
+        "build/native/include/raylib-cpp.hpp",
+        "build/native/include/raylib.h",
+        "build/native/include/raylib.hpp",
+        "build/native/include/raymath.h",
+        "build/native/include/raymath.hpp",
+        "build/native/include/rlgl.h",
+        "build/native/lib/win32/raylib.dll",
+        "build/native/lib/win32/raylib.lib",
+        "build/native/lib/win32/raylibdll.lib",
+        "build/native/lib/x64/raylib.dll",
+        "build/native/lib/x64/raylib.lib",
+        "build/native/lib/x64/raylibdll.lib",
+        "build/native/raylib.targets",
+        "build/native/raylibUI.xml",
+        "build/native/raylib_128x128.png",
+        "raylib.5.0.0.nupkg.sha512",
+        "raylib.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "raylib >= 5.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kadir\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\kadir\\Documents\\Programming\\Slutprojekt\\Slutprojekt\\Slutprojekt.csproj",
+      "projectName": "Slutprojekt",
+      "projectPath": "C:\\Users\\kadir\\Documents\\Programming\\Slutprojekt\\Slutprojekt\\Slutprojekt.csproj",
+      "packagesPath": "C:\\Users\\kadir\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kadir\\Documents\\Programming\\Slutprojekt\\Slutprojekt\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\kadir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "raylib": {
+            "target": "Package",
+            "version": "[5.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
